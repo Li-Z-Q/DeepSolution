@@ -1,7 +1,7 @@
 # DeepSolution
-DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking                                           
-https://arxiv.org/abs/2502.20730                                  
-https://huggingface.co/papers/2502.20730              
+DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking (ACL 2025)                                          
+
+https://aclanthology.org/2025.acl-long.220/           
 https://huggingface.co/datasets/lzq2021/SolutionBench
 
 
